@@ -37,4 +37,4 @@ This project simulates the **three-body problem** — the motion of three massiv
 
 ---
 
-**Next steps:** extend this to an *N-body simulation* and explore chaos!
+**Next steps:** extend this to a general *N-body simulation*.
