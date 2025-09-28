@@ -25,7 +25,7 @@ Wave propagation is naturally a **3D phenomenon**. Here, the simulation maps it 
 
 ## Files
 
-* `wave_propagation.py` – Standalone simulation script.
+* `wave_propagation.py` – Python script.
 
 ---
 
@@ -34,7 +34,7 @@ Wave propagation is naturally a **3D phenomenon**. Here, the simulation maps it 
 Install the dependencies:
 
 ```bash
-pip install numpy matplotlib
+pip install numpy pyglet
 ```
 
 ---
