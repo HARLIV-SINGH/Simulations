@@ -14,18 +14,12 @@ This project simulates the **three-body problem** — the motion of three massiv
 
 ## How to Run
 
-1. Clone the repository and navigate to this folder:
-
-   ```bash
-   git clone https://github.com/HARLIV-SINGH/physics-simulations.git
-   cd physics-simulations/three-body-problem
-   ```
-2. Install dependencies (if not already installed):
+1. Install dependencies (if not already installed):
 
    ```bash
    pip install numpy pyglet
    ```
-3. Run the script:
+2. Run the script:
 
    ```bash
    python three_body.py
