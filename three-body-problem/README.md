@@ -17,7 +17,7 @@ This project simulates the **three-body problem** — the motion of three massiv
 1. Clone the repository and navigate to this folder:
 
    ```bash
-   git clone https://github.com/yourusername/physics-simulations.git
+   git clone https://github.com/HARLIV-SINGH/physics-simulations.git
    cd physics-simulations/three-body-problem
    ```
 2. Install dependencies (if not already installed):
