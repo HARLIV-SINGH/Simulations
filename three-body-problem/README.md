@@ -31,4 +31,4 @@ This project simulates the **three-body problem** — the motion of three massiv
 
 ---
 
-**Next steps:** extend this to a general *N-body simulation*.
+**Next steps:** Extend this to a general *N-body simulation*.
