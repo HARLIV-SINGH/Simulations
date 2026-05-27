@@ -4,3 +4,4 @@
 ### Projects include:
 * Three-body problem
 * Wave propagation and standing wave formation
+* Ring formation simulation
